@@ -11,5 +11,5 @@ F. F. Feitosa, G. Câmara, A. M. V. Monteiro, T. Koschitzki & M. P. S. Silva (20
 
 1) Download and install [TerraView 4.1.0](http://www.dpi.inpe.br/terraview_previous_hidden/dow/terraView410.exe)
 2) Download [TerraSegreg 1.0.0](http://www.dpi.inpe.br/terrasegreg/installer/TerraSegreg1.0.0.exe) installer
-3) Run "TerraSegreg1.0.0.exe" and when prompted for the destination folder, select where the TerraView 4.1.0 is installed. (*e.g.*: `C:\Program Files (x86)\TerraView 4.1.0`)
-4) Start TerraView :arrow_right: TerraSegreg will be accessible on "Plugins" menu.
+3) Run `TerraSegreg1.0.0.exe` and when prompted for the destination folder, select where the TerraView 4.1.0 is installed. (*e.g.*: `C:\Program Files (x86)\TerraView 4.1.0`)
+4) Start `TerraView` :arrow_right: `TerraSegreg` will be accessible on "Plugins" menu.
